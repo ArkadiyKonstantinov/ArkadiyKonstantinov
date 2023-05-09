@@ -31,10 +31,10 @@ I've just graduated Hexlet school and now I'm looking for the new career opportu
 
 While taking a course on front-end development in Hexlet, I've done four training projects.
   
-- [Brain Games](https://github.com/ArkadiyKonstantinov/Hexlet-fp1-Brain-Games) – A set of five console games built on the principle of popular mobile applications for pumping the brain
-- [Differences Generator](https://github.com/ArkadiyKonstantinov/Hexlet-fp2-Differences-Generator) – CLI utility for comparing two configuration files and shows a difference
-- [RSS Aggregator](https://github.com/ArkadiyKonstantinov/Hexlet-fp3-RSSAggregator) – simple service to reading RSS feeds
 - [Hexlet Chat](https://github.com/ArkadiyKonstantinov/Hexlet-fp4-HexletChat) – web-based group chat application
+- [RSS Aggregator](https://github.com/ArkadiyKonstantinov/Hexlet-fp3-RSSAggregator) – simple service to reading RSS feeds
+- [Differences Generator](https://github.com/ArkadiyKonstantinov/Hexlet-fp2-Differences-Generator) – CLI utility for comparing two configuration files and shows a difference
+- [Brain Games](https://github.com/ArkadiyKonstantinov/Hexlet-fp1-Brain-Games) – A set of five console games built on the principle of popular mobile applications for pumping the brain
 
 For more details on my experience, see [my CV](https://cv.hexlet.io/resumes/2184).
 
